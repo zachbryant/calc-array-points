@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "d152918ee8ee8ec8b92fa766a495e219"
+build_time: [1507851516, 278609000]
+inputs:
+  "/Users/iguest/Desktop/CalcArray/CalcArray/main.swift": [1507851516, 0]
